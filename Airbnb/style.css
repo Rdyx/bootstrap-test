@@ -72,15 +72,15 @@ div {
 .padForm{
 	padding: 1em 0em 0em 1em;
 }
-.topMenu li{
+.topMenu {
 	box-sizing: border-box;
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
     height: 3em;
 	text-decoration: none;
-	margin: 0 -3em 0 4em;
+	padding: 0;
 }
-.topMenu li:hover{
+.topMenu:hover{
 	border-bottom: 2px solid rgb(120,120,120);
 }
 .airbnb{
@@ -133,4 +133,15 @@ div {
 	color: rgb(130,130,130);
 	font-size: 19px;
 	background-color: white;
+}
+.hoverBlue:hover{
+	height: 2.5em;
+	color: blue;
+	border-bottom: 2px solid blue;
+}
+.underHover{
+	color:grey;
+}
+.underHover:hover{
+	text-decoration: underline;
 }
