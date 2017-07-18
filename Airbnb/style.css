@@ -23,7 +23,7 @@ div {
 	margin: 1em 0em 0em -2em;
 	border: none;
 }
-.searchButtonMd, .searchButton:hover {
+.searchButtonMd, .searchButtonMd:hover {
 	color: white;
 	background-color: rgb(255,100,100);
 	border-radius: 5px;
@@ -33,7 +33,7 @@ div {
 	margin: 1em 0em 0em -2.5em;
 	border: none;
 }
-.searchButtonSm, .searchButton:hover {
+.searchButtonSm, .searchButtonSm:hover {
 	color: white;
 	background-color: rgb(255,100,100);
 	border-radius: 5px;
@@ -43,7 +43,7 @@ div {
 	margin: 1em 0em 0em -2.5em;
 	border: none;
 }
-.searchButtonXs, .searchButton:hover {
+.searchButtonXs, .searchButtonXs:hover {
 	color: white;
 	background-color: rgb(255,100,100);
 	border-radius: 5px;
